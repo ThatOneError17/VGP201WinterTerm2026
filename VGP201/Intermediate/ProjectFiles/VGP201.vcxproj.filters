@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VGP201.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VGP201.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VGP201Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VGP201">
+      <UniqueIdentifier>{0CABE6CE-A571-33A7-A0C7-166360BC1818}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VGP201\VGP201.Build.cs">
+      <Filter>Source\VGP201</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VGP201\VGP201.cpp">
+      <Filter>Source\VGP201</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP201\VGP201.h">
+      <Filter>Source\VGP201</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP201\Private">
+      <UniqueIdentifier>{3610FED2-0E62-32BD-BB32-46D18110B048}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP201\Private\FPSProjectGameMode.cpp">
+      <Filter>Source\VGP201\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\VGP201\Public">
+      <UniqueIdentifier>{3B605558-CFAE-3D56-9A47-E08F37020BDB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\VGP201\Public\FPSProjectGameMode.h">
+      <Filter>Source\VGP201\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

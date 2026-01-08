@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VGP201.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/School Stuff/Notes and Work For Classes/Term 5/Graphic Programming 2/UnrealProject/VGP201WinterTerm2026/VGP201/Intermediate/Build/Win64/x64/VGP201Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/School Stuff/Notes and Work For Classes/Term 5/Graphic Programming 2/UnrealProject/VGP201WinterTerm2026/VGP201/Intermediate/Build/Win64/x64/UnrealEditor/Development/VGP201/Module.VGP201.gen.cpp.obj"
+"D:/School Stuff/Notes and Work For Classes/Term 5/Graphic Programming 2/UnrealProject/VGP201WinterTerm2026/VGP201/Intermediate/Build/Win64/x64/UnrealEditor/Development/VGP201/VGP201.cpp.obj"
+"D:/School Stuff/Notes and Work For Classes/Term 5/Graphic Programming 2/UnrealProject/VGP201WinterTerm2026/VGP201/Intermediate/Build/Win64/x64/UnrealEditor/Development/VGP201/FPSProjectGameMode.cpp.obj"
+"D:/School Stuff/Notes and Work For Classes/Term 5/Graphic Programming 2/UnrealProject/VGP201WinterTerm2026/VGP201/Intermediate/Build/Win64/x64/UnrealEditor/Development/VGP201/PerModuleInline.gen.cpp.obj"
+"D:/School Stuff/Notes and Work For Classes/Term 5/Graphic Programming 2/UnrealProject/VGP201WinterTerm2026/VGP201/Intermediate/Build/Win64/x64/UnrealEditor/Development/VGP201/Default.rc2.res"
+/OUT:"D:/School Stuff/Notes and Work For Classes/Term 5/Graphic Programming 2/UnrealProject/VGP201WinterTerm2026/VGP201/Intermediate/Build/Win64/x64/UnrealEditor/Development/VGP201/UnrealEditor-VGP201.lib"

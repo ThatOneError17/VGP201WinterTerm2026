@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VGP201.gen.cpp.obj": [
+			"FPSProjectGameMode.gen.cpp.obj",
+			"VGP201.init.gen.cpp.obj"
+		]
+	}
+}

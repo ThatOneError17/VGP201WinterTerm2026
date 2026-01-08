@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\school stuff\\notes and work for classes\\term 5\\graphic programming 2\\unrealproject\\vgp201winterterm2026\\vgp201\\source\\vgp201\\vgp201.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\school stuff\\notes and work for classes\\term 5\\graphic programming 2\\unrealproject\\vgp201winterterm2026\\vgp201\\intermediate\\build\\win64\\x64\\vgp201editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\school stuff\\notes and work for classes\\term 5\\graphic programming 2\\unrealproject\\vgp201winterterm2026\\vgp201\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vgp201\\definitions.vgp201.h",
+            "d:\\school stuff\\notes and work for classes\\term 5\\graphic programming 2\\unrealproject\\vgp201winterterm2026\\vgp201\\source\\vgp201\\vgp201.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
